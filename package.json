@@ -1,0 +1,22 @@
+{
+  "name": "hellojs",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ployarada/hellojs.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "arada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ployarada/hellojs/issues"
+  },
+  "homepage": "https://github.com/ployarada/hellojs#readme"
+}
